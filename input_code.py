@@ -15,4 +15,4 @@ def input_code(code):
 os.system('adb shell input keyevent 26')
 os.system('adb shell input swipe 800 800 800 400 200')
 #os.system('adb shell input swipe 400 800 800 1200 6000')
-input_code(314667)
+input_code(9527)
